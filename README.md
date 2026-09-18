@@ -1,2 +1,2 @@
-# conjugate-mixing-rmt
-Complex random matrix theory with conjugate mixing
+# Complex Product Random Matrices with Conjugate Mixing: From Quartic to Sextic Spectral Laws
+
